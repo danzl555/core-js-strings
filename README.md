@@ -86,4 +86,4 @@ npm run lint:fix
 ---
 
 The task based on <https://github.com/rolling-scopes-school/js-assignments>.
-Danila Kazakou did this ex.
+Danila Kazakou did this ex
